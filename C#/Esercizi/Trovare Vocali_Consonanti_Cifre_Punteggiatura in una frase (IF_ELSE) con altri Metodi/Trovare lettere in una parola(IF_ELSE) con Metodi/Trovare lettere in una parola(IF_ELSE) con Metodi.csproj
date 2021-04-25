@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>Trovare_lettere_in_una_parola_IF_ELSE__con_Metodi</RootNamespace>
+  </PropertyGroup>
+
+</Project>

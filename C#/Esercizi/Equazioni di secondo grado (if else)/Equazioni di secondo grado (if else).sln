@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Equazioni di secondo grado (if else)", "Equazioni di secondo grado (if else).csproj", "{5B16A6B2-E0FF-4ABD-A55B-036216908446}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5B16A6B2-E0FF-4ABD-A55B-036216908446}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B16A6B2-E0FF-4ABD-A55B-036216908446}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B16A6B2-E0FF-4ABD-A55B-036216908446}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B16A6B2-E0FF-4ABD-A55B-036216908446}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E8051A6B-B4BA-4CFE-97DF-1DD5C6B698FF}
+	EndGlobalSection
+EndGlobal

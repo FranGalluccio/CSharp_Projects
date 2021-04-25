@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Cambiare tipo di una variabile", "Esercizi\Cambiare tipo di una variabile.csproj", "{C41D60D7-C728-449B-8F54-61502F71B533}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C41D60D7-C728-449B-8F54-61502F71B533}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C41D60D7-C728-449B-8F54-61502F71B533}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C41D60D7-C728-449B-8F54-61502F71B533}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C41D60D7-C728-449B-8F54-61502F71B533}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A0555AC0-D301-481B-91D9-09120248A8DA}
+	EndGlobalSection
+EndGlobal
