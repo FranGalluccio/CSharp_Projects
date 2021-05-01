@@ -1,0 +1,13 @@
+C:\Users\Francesco\source\repos\Store\Store\bin\Debug\netcoreapp3.1\Store.exe
+C:\Users\Francesco\source\repos\Store\Store\bin\Debug\netcoreapp3.1\Store.deps.json
+C:\Users\Francesco\source\repos\Store\Store\bin\Debug\netcoreapp3.1\Store.runtimeconfig.json
+C:\Users\Francesco\source\repos\Store\Store\bin\Debug\netcoreapp3.1\Store.runtimeconfig.dev.json
+C:\Users\Francesco\source\repos\Store\Store\bin\Debug\netcoreapp3.1\Store.dll
+C:\Users\Francesco\source\repos\Store\Store\bin\Debug\netcoreapp3.1\Store.pdb
+C:\Users\Francesco\source\repos\Store\Store\obj\Debug\netcoreapp3.1\Store.csprojAssemblyReference.cache
+C:\Users\Francesco\source\repos\Store\Store\obj\Debug\netcoreapp3.1\Store.AssemblyInfoInputs.cache
+C:\Users\Francesco\source\repos\Store\Store\obj\Debug\netcoreapp3.1\Store.AssemblyInfo.cs
+C:\Users\Francesco\source\repos\Store\Store\obj\Debug\netcoreapp3.1\Store.csproj.CoreCompileInputs.cache
+C:\Users\Francesco\source\repos\Store\Store\obj\Debug\netcoreapp3.1\Store.dll
+C:\Users\Francesco\source\repos\Store\Store\obj\Debug\netcoreapp3.1\Store.pdb
+C:\Users\Francesco\source\repos\Store\Store\obj\Debug\netcoreapp3.1\Store.genruntimeconfig.cache
